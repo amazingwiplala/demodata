@@ -13,8 +13,8 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":35 },
-                { "size":"L","price":40 }
+                { "size":"M","price":30 },
+                { "size":"L","price":35 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -52,8 +52,8 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":35 },
-                { "size":"L","price":40 }
+                { "size":"M","price":30 },
+                { "size":"L","price":35 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -91,8 +91,8 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":45 },
-                { "size":"L","price":50 }
+                { "size":"M","price":40 },
+                { "size":"L","price":45 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -130,8 +130,8 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":55 },
-                { "size":"L","price":65 }
+                { "size":"M","price":50 },
+                { "size":"L","price":60 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -169,8 +169,8 @@
             ],
             "place":"春芽茶葉產地：台灣南投。",
             "price":[
-                { "size":"M","price":35 },
-                { "size":"L","price":40 }
+                { "size":"M","price":30 },
+                { "size":"L","price":35 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -208,8 +208,8 @@
                 "大杯：總糖量57g，總熱量：261大卡，咖啡因總含量為0。 "
             ],
             "price":[
-                { "size":"M","price":60 },
-                { "size":"L","price":70 }
+                { "size":"M","price":55 },
+                { "size":"L","price":65 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -248,8 +248,8 @@
             ],
             "place":"春芽茶葉產地：台灣南投。",
             "price":[
-                { "size":"M","price":35 },
-                { "size":"L","price":40 }
+                { "size":"M","price":30 },
+                { "size":"L","price":35 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -288,8 +288,8 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":35 },
-                { "size":"L","price":40 }
+                { "size":"M","price":30 },
+                { "size":"L","price":35 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -328,8 +328,8 @@
             ],
             "place":"春芽茶葉產地：台灣南投。",
             "price":[
-                { "size":"M","price":35 },
-                { "size":"L","price":40 }
+                { "size":"M","price":30 },
+                { "size":"L","price":35 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -367,8 +367,8 @@
                 "大杯：總糖量38克，總熱量162大卡，咖啡因總含量為0。如甜度選擇減糖方式，咖啡因總含量小於等於100mg。"
             ],
             "price":[
-                { "size":"M","price":50 },
-                { "size":"L","price":60 }
+                { "size":"M","price":45 },
+                { "size":"L","price":55 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -407,8 +407,8 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":50 },
-                { "size":"L","price":60 }
+                { "size":"M","price":45 },
+                { "size":"L","price":55 }
             ],
             "addon":[
                 { "level":0,"valid":false },
@@ -446,8 +446,8 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":60 },
-                { "size":"L","price":70 }
+                { "size":"M","price":55 },
+                { "size":"L","price":65 }
             ],
             "addon":[
                 { "level":0,"valid":false },
@@ -484,7 +484,7 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":60 }
+                { "size":"M","price":55 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -523,8 +523,8 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":75 },
-                { "size":"L","price":85 }
+                { "size":"M","price":65 },
+                { "size":"L","price":75 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -563,8 +563,8 @@
             ],
             "place":"紅茶茶葉產地為斯里蘭卡。",
             "price":[
-                { "size":"M","price":80 },
-                { "size":"L","price":90 }
+                { "size":"M","price":70 },
+                { "size":"L","price":80 }
             ],
             "addon":[
                 { "level":0,"valid":true },
@@ -602,8 +602,8 @@
             ],
             "place":"紅茶茶葉產地：斯里蘭卡。",
             "price":[
-                { "size":"M","price":50 },
-                { "size":"L","price":60 }
+                { "size":"M","price":45 },
+                { "size":"L","price":55 }
             ],
             "addon":[
                 { "level":0,"valid":true },
