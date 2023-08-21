@@ -216,7 +216,7 @@
                 { "level":1,"valid":true }
             ],
             "temperature":[
-                { "level":0,"valid":true },
+                { "level":0,"valid":false },
                 { "level":1,"valid":true },
                 { "level":2,"valid":true },
                 { "level":3,"valid":true },
